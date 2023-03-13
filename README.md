@@ -47,7 +47,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/43-grupe-birthday.git
+    git clone https://github.com/sauliusinfo/43-grupe-birthday.git
     ```
 2. Install NPM packages
     ```sh
